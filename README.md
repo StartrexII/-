@@ -44,7 +44,7 @@ __Важный момент - уровень измеренный линейко
 ## Используемые зависимости
 * Python (3.11.1):
     * [pandas (1.5.3)](https://pandas.pydata.org)
-    * [plotly (5.13.1)](https://plotly.com/python/)
+    * [plotly (5.13.0)](https://plotly.com/python/)
 
 ## Установка проекта
 
